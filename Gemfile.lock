@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    grpc-demo-shila (0.1.0)
+    grpc-demo (1.1.0)
       grpc (~> 0.11)
 
 GEM
@@ -42,7 +42,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.7)
-  grpc-demo-shila!
+  grpc-demo!
 
 BUNDLED WITH
    1.12.4
